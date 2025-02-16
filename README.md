@@ -1,22 +1,18 @@
 # presentation
-Hello! my name is Alexandre Barreto, I'm are 13 years old, and I like too much to program :D  
+Hello! My name is Alexandre Barreto, I'm 14 years old, I study math, programming and compilers. Simple. But in some situations I can learn other fields too.
 
 ## My stack
-I most uses these following languages:
-  1. Python;
-  2. HTML;
-  3. CSS;
-  4. JS;
+Currently, I work with these languages:
+1. Lua (greater-than-married)
+2. C++/C
 
-and by hobby/fun, I use any language, but, the languages that I use are:
-  1. C;
-  2. C++;
-  3. Java;
-  4. C#;
-  5. (on the future) Assembly;
-  6. Shell Script;
+But I know other languages:
 
-End;
+1. Python
+2. Rust
+3. JS (basic)
+4. HTML and CSS (very basic)
+5. Assembly x64 (I need help working with this)
 
-## My dreams
-I dream to work in a good company, as a software developer, earn my first salary and just be happy ¦D
+okay. Well, talking about mathematics, I'm targetting calculus, to target into the deeper physics. Currently I'm learning the pre-calculus.
+Bye!
